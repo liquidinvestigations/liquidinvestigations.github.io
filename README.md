@@ -1,8 +1,8 @@
 # Welcome to Liquid Investigations!
 
-Welcome to Liquid Investigations. Liquid Investigations allows you to turn your ARM-based board or PC into a secure collaboration server for investigative journalism projects. It builds upon Ubuntu, Hoover, Hypothesis, and many other projects to enable you to safely and securely collaborate on sensitive projects with minimal set-up.
+Liquid Investigations allows you to turn your ARM-based board or PC into a secure collaboration server for investigative journalism projects. It builds upon Ubuntu, Hoover, Hypothesis, and many other projects to enable you to safely and securely collaborate on sensitive projects with minimal set-up.
 
-We have made images available for many popular ARM-based boards, and for the x86_64 architecture. You can run the machine at the center of a war-room environment, in a federation of other nodes, or in a cloud hosted configuration, depending on your team and security needs.
+We have made images available for many popular ARM-based boards, and for the x86_64 architecture. You can run the distribution at the center of a war-room environment, in a federation of other nodes, or in a cloud hosted configuration, depending on your team and security needs.
 
 For more details, take a look at our project wiki [here](https://github.com/liquidinvestigations/liquidinvestigations/wiki).
 
