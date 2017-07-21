@@ -1,4 +1,5 @@
 title: Liquid Investigations
-description: Secure and portable collaboration
+description: Secure and portable collaboration for investigative journalists
 site.github.repository_url: http://github.com/liquidinvestigations
+
 theme: jekyll-theme-cayman
