@@ -14,8 +14,8 @@ For more details, take a look at our project wiki [here](https://github.com/liqu
 There are three main ways to begin using the platform:
 
 1. Via our online demo server located at [liquiddemo.org](https://liquiddemo.org).
-2. Self-hosted, using one of our x86_64 [images](https://liquidinvestigations.org/images/nightly/).
-3. On an ARM-based board, using one of our ARM64 or ARM32 [images](https://liquidinvestigations.org/images/nightly/).
+2. Self-hosted, using one of our x86_64 [images](https://jenkins.liquiddemo.org/job/liquidinvestigations/job/setup/job/master/lastSuccessfulBuild/artifact/).
+3. On an ARM-based board, using one of our ARM64 or ARM32 [images](https://jenkins.liquiddemo.org/job/setup-arm64/job/master/lastSuccessfulBuild/artifact/).
 
 For instructions on how to download and install the software, take a look at our [Getting Started Guide](https://github.com/liquidinvestigations/liquidinvestigations/wiki/Getting-Started).
 
