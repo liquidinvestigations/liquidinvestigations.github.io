@@ -6,6 +6,69 @@
 .page-header {
   color: #fff;
   text-align: center;
-  background: #617682;
-  /* background-image: linear-gradient(to bottom, #1e6bb8, #fff); */
+  background: #d5e0eb;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #414042;
+  }
+}
+
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #414042;
+  }
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(65, 65, 65, 1);
+  background-color: rgba(0, 0, 0, 0.1);
+  border-color: rgba(65, 65, 65, 0.5);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: rgba(65, 65, 65, .90);
+    text-decoration: none;
+    background-color: rgba(65, 65, 65, 0.5);
+    border-color: rgba(65, 65, 65, 0.3);
+  }
+
+  + .btn {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
 }
