@@ -9,6 +9,8 @@ Note that the project is currently under development, and as such features are s
 
 For more details, take a look at our project wiki [here](https://github.com/liquidinvestigations/liquidinvestigations/wiki).
 
+Our progress reports can be followed here: [Q1](https://liquidinvestigations.github.io/reports/q1.html), [Q2](https://liquidinvestigations.github.io/reports/q2.html), [Q3](https://liquidinvestigations.github.io/reports/q3.html).
+
 # Getting Started
 
 There are three main ways to begin using the platform:
